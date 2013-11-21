@@ -1,1 +1,1 @@
-# Régles additionnelles
+# Règles additionnelles

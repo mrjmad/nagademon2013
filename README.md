@@ -9,9 +9,10 @@ Robots Wars est un jeu de combat de robots qui se battent sur un terrain qui peu
 ## Tables des matières
 
 * [Vue d'ensemble](overview.md)
-* [Régles de déroulement d'une partie](regles.md)
-* [Régles de création d'une équipe](equipe.md)
-* [Régles additionnelles](mods.md)
+* [Règles de déroulement d'une partie](regles.md)
+* [Règles de création d'une équipe](equipe.md)
+* [Listes des pièces utilisables pour construire un robot](pieces.md)
+* [Règles additionnelles](mods.md)
 
 ## Crédits
 

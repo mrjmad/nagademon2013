@@ -2,15 +2,15 @@
 
 ## Les châssis
 
-|Nom Châssis   | Poids | Points Structure | Poids supporté | Coûts|
+|Nom  | Poids | Points Structure | Poids supporté | Coûts|
 | :---: | :--------------: | :------------: | :--: | 
 |Petit châssis | 0     | 5 | 11 | 1 | 
 |Châssis Moyen | 0 | 10 | 16 | 3 | 
 |Gros Châssis  | 0 | 15 | 30 | 5 | 
 
-## Armes
+## Les armes
 
-|Armes | Poids | dégâts | Coûts | Consommation | Tir par tour | Portée |
+|Noms | Poids | dégâts | Coûts | Consommation | Tir par tour | Portée |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |Canon 1 coup | 1 | 2 | 1 | 1 | 1 | 1 |
 |Canon 2 coup | 1 | 2 | 3 | 1 | 2 | 1 |
@@ -22,28 +22,33 @@
 |petite batterie de missile | 5 | 6 | 6 | 4 | 2 | 3|
 |batterie de missile | 8 | 6 | 8 | 6 | 4 | 3|
 
+## Les moteurs
 
-|Moteur | Poids | Points Structure | Poids supportés | Coûts | Consommation | vitesse|
+|Noms | Poids | Points Structure | Poids supportés | Coûts | Consommation | vitesse|
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |Moteur simple | 4 | 3 | 12 | 1 | 2 | 1|
 |Moteur moyen | 6 | 6 | 20 | 3 | 4 | 2|
 |Moteur rapide | 6 | 1 | 10 | 5 | 4 | 4|
 |Moteur lourd | 10 | 8 | 30 | 5 | 6 | 2|
  
-|Blindage | Poids | Valeur blindage | Coûts |
+ ## Les blindages
+ 
+|Noms | Poids | Valeur blindage | Coûts |
 | :---: | :---: | :---: | :---: |
 |Petit blindage | 4 | 1 | 5 | 
 |Blindage | 10 | 2 | 8 | 
 
+## Les générateurs d'énergie
 
-|Générateur d'énergie | Poids | Points Structure | Énergie produite | Coûts |   
+|Noms | Poids | Points Structure | Énergie produite | Coûts |   
 | :---: | :---: | :---: | :---: | :---: |
 |Petit générateur | 3 | 5 | 5 | 1 |  
 |Générateur | 5 | 8 | 10 | 3 |  
 |Gros générateur | 8 | 10 | 20 | 5 |  
 
+## les autres éléments
  
-|Gadgets | Poids | Consommation | coûts | poids maximum du robot |   
+|Noms | Poids | Consommation | coûts | poids maximum du robot |   
 | :---: | :---: | :---: | :---: | :---: |
 |destructeur de pont | 4 | 4 | 4 | - |  
 |générateur de pont | 8 | 4 | 4 | - |  

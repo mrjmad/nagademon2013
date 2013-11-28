@@ -44,7 +44,7 @@ Les commandeurs porte drapeau de toutes les équipes sont identiques.
 
 Voici leur caractéristiques : 
 
-* 35 points de structure
+* 8 points de structure
 * 1 points de blindage
 * 2 ponts traversable par tour
 
